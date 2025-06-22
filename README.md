@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Welcome banner"/>
+</p>
+
 # 👋 Hi, I'm Rohan Ajila
 
 🎓 MSc in Cloud Computing | 💻 Full Stack Developer | ☁️ Azure & AWS Cloud Enthusiast  
@@ -16,14 +20,27 @@
 
 ---
 
-## 💼 Tech Stack
+## 🛠️ Languages and Tools
 
-- **Languages**: C#, JavaScript, TypeScript, Python  
-- **Frontend**: Angular, React, HTML/CSS, Tailwind  
-- **Backend**: .NET Core, ASP.NET, Django, Flask  
-- **Cloud**: Azure (App Services, Function Apps), AWS (EC2, S3, Lambda)  
-- **DevOps**: Azure DevOps, GitHub Actions, Docker, Kubernetes  
-- **Databases**: SQL Server, MySQL, PostgreSQL
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+- [📸 Photography Portfolio](https://github.com/rohanajila/Photography_Portfolio): A visually rich frontend project using JavaScript for showcasing photography work.
+
+- [🧠 CPU Utilization Forecasting](#): MSc thesis project on forecasting VM CPU load using LSTM, BiLSTM and Multihead BiLSTM models. *(Upload coming soon)*
+
+- [📦 Embedded Systems & IoT](https://github.com/rohanajila/Embedded-Systems-and-Internet-of-Things): Hands-on Python-based projects focusing on IoT applications and embedded systems.
 
 ---
 
@@ -34,7 +51,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohanajila&theme=flat&no-frame=true&column=4)
+
+---
+
 ## 📫 Get in Touch
 
 - 📧 Email: rohanajila@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/rohan-ajila](https://www.linkedin.com/in/rohan-ajila)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=rohanajila&label=Profile%20views&color=0e75b6&style=flat)
